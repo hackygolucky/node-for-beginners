@@ -3,7 +3,7 @@ node-for-beginners
 
 A list of resources for Node.js Newbies!
 
-* NodeSchool Learn You Node (http://nodeschool.io) - A command line workshopper course for learning Node.js at your own pace - 1
+* The Art of Node (http://github.com/maxogden/art-of-node) - An introduction to Node.js that includes the command line workshopper Learn You Node and Stream Adventure courses from [nodeschool.io](http://nodeschool.io) - 1
 
 ## Adding to this Repo:
 1. Fork the repo
